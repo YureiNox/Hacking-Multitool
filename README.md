@@ -9,7 +9,21 @@
 ## 📑 Sommaire / Table of Contents
 
 - [🇫🇷 Français](#-français)
+  - [❓ Qu'est-ce que c'est ?](#-quest-ce-que-cest-)
+  - [✅ Prérequis](#-prérequis)
+  - [🚀 Installation](#-installation)
+  - [🕹️ Utilisation](#-utilisation)
+    - [⌨️ Keylogger](#-keylogger)
+    - [🕵️‍♂️ Discord Token Grabber](#-discord-token-grabber)
+  - [🎓 Apprentissage](#-profite-de-ton-apprentissage-en-cybersécurité-)
 - [🇬🇧 English](#-english)
+  - [❓ What is it?](#-what-is-it)
+  - [✅ Requirements](#-requirements)
+  - [🚀 Installation](#-installation-1)
+  - [🕹️ Usage](#-usage)
+    - [⌨️ Keylogger](#-keylogger-1)
+    - [🕵️‍♂️ Discord Token Grabber](#-discord-token-grabber-1)
+  - [🎓 Learning](#-enjoy-your-cybersecurity-learning)
 
 ---
 
